@@ -1,0 +1,173 @@
+.header
+{
+height:300px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+background-color:#000099;
+}
+.h
+{
+height:300px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+}
+.logo
+{
+float:left;
+height:250px;
+width:300px;
+border-radius:50%;
+overflow:hidden;
+}
+.name
+{
+height:250px;
+width:700px;
+float:right;
+text-align:justify;
+text-indent:inherit;
+}
+.n
+{
+position:relative;
+top:100px;
+left:250px;
+font-size:50px;
+font-style:'lobsta',cursive;
+text-shadow:15px 15px 5px red;
+}
+.menu
+{
+height:50px;
+width:1000px;
+float:left;
+background-color:#00FFFF;
+}
+.menu ul{
+margin:0px;
+padding:20px;
+}
+
+.menu ul li
+{
+display:inline;
+padding:50px;
+}
+.menu ul a
+{
+text-decoration:none;
+}
+.footer{
+height:100px;
+width:1000px;
+margin-left:auto;
+margin-right: auto;
+border:#FF0000 solid;
+text-align:justify;
+font:Georgia, "Times New Roman", Times, serif;
+font-size:45px;
+}
+.copy{
+height:100px;
+width:1000px;
+float:left;
+font-family:"Courier New";
+font-size: 36px;
+text-align:center;
+background-color:#FFCC99;
+}
+.home{
+height:500px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+background-color:#0099CC;
+border:#66FF00 solid;
+}
+.h{
+height:100px;
+width:1000px;
+float:left;
+text-align:center;
+text-decoration:underline;
+}
+.content{
+height:200px;
+width:1000px;
+float:left;
+font-family:Arial;
+font-size:24px;
+color: #FF0000;
+text-align:justify;
+}
+.content a{
+text-decoration:none;
+font-family:Verdana;
+color:#CC3399;}
+.image{
+height:200px;
+width:1000px;
+float:left;}
+.a{
+border:#CC0000 dashed;
+border-radius:10px;}
+.about{
+height:500px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+background-position:center;
+background-size:cover;
+border: #009933 solid;
+}
+.im1{
+float:left;
+}
+.im2{
+float:right;
+}
+.im3{
+float:left;
+}
+.im4{
+float:right;
+}
+.service{
+height:500px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+}
+.contact{
+height:500px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+border:#FFFF00 solid;
+}
+.ad{
+height:250px;
+width:1000px;
+float:left;
+text-align:center;
+background-color:#99CCCC;
+}
+.map{
+float:left;}
+.register{
+height:600px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+border: #CC3333 solid;
+
+}
+.register form{
+padding-left:400px;}
+.register label{
+font-size:24px;
+}
+.register input{
+padding-left:20px;}
